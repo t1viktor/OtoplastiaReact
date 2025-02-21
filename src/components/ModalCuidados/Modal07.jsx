@@ -53,8 +53,7 @@ export default function Modal01() {
             <ul className="ulModalCuidados marker:text-blue-500">
               <li className="liModalCuidados">{card07.desc01}</li>
               <li className="liModalCuidados">{card07.desc02}</li>
-              <li className="liModalCuidados">{card07.desc03}</li>
-              <li className="liModalCuidados">{card07.desc04}</li>
+             
               
             </ul>
           </div>

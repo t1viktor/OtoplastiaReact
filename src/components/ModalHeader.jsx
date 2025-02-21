@@ -33,7 +33,7 @@ export default function ModalHeader() {
           <div onClick={(e) => e.stopPropagation()} className="z-50 fixed h-[90%] bg-slate-800 py-6 rounded-4xl shadow-lg w-[60%] max-lg:w-[90%] h-[80%] max-lg:h-[76%] border-[1px] border-slate-500 flex flex-col space-y-2 justify-between">
             <div className="w-full flex  max-md:flex-col-reverse items-center justify-items-center text-center justify-between border-b-[1px] border-slate-500 max-md:text-xl">
                   {/* Botão para fechar */}
-            <h2 className="text-orange-200 text-4xl text-left px-8 py-4 max-md:text-3xl">Sobre a Mastopexia com Prótese</h2>
+            <h2 className="text-orange-200 text-4xl text-left px-8 py-4 max-md:text-3xl">Sobre a Otoplastia</h2>
             <button
               onClick={() => setIsOpen(false)}
               className="px-4 py-2 bg-slate-800 font-semibold text-white rounded-md w-60 cursor-pointer"
@@ -42,9 +42,9 @@ export default function ModalHeader() {
             </button>
             </div>
 
-            <h2 className="font-semibold mb-2 text-blue-500 text-3xl px-8 max-md:text-2xl">O que é a Mastopexia com Prótese?
+            <h2 className="font-semibold mb-2 text-blue-500 text-3xl px-8 max-md:text-2xl">O que é a Otoplastia?
             </h2>
-            <p className="text-gray-100 px-8 py-2 text-lg max-md:text-md">A mastopexia com prótese é um procedimento cirúrgico que combina o levantamento dos seios com a colocação de próteses de silicone para melhorar o volume e o contorno. O pós-operatório é uma fase crucial para o sucesso da cirurgia e para garantir um resultado seguro e satisfatório. Este guia traz orientações completas para que você tenha uma recuperação tranquila e alcance os melhores resultados.
+            <p className="text-gray-100 px-8 py-2 text-lg max-md:text-md">A otoplastia é a cirurgia que visa corrigir a posição e a forma das orelhas, tornando-as mais proporcionais e harmônicas em relação ao rosto. Após a cirurgia, o paciente deve seguir algumas orientações essenciais para garantir uma boa recuperação, minimizar desconfortos e obter os melhores resultados. Neste guia, reunimos instruções claras e detalhadas sobre os cuidados no pós-operatório, incluindo repouso, higiene, alimentação e uso de acessórios compressivos, quando indicados.
 </p>
 
             <div className="cardAlert">

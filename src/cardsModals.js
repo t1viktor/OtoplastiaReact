@@ -3,50 +3,42 @@ export const card01 = {
     img: "/img/pacienteDeitado.jpg",
     tittle: "Cuidados Imediatos e Gerais",
 
-    h2Modal: "Após a cirurgia, seu corpo passará por um período de adaptação. É importante seguir as orientações rigorosamente para evitar complicações e facilitar a recuperação.",
-
     li01: "Repouso Relativo",
-    li02: "Movimentação Controlada",
-    li03: "Posição para Dormir",
-    li04: "Atenção aos Sinais de Alerta",
+    li02: "Atenção ao Inchaço e Dor",
+    li03: "Pequenas Caminhadas",
 
-    desc01: "Nos primeiros dias, evite movimentos bruscos e esforços físicos. Repouse o máximo possível e evite levantar objetos pesados ou elevar os braços acima da linha dos ombros.",
-    desc02: "Pequenas caminhadas ao longo do dia são recomendadas para melhorar a circulação e evitar o risco de trombose. No entanto, evite atividades intensas.",
-    desc03: "Deitar-se de barriga para cima, com a cabeça e o tronco levemente elevados, ajuda a reduzir o inchaço e a proteger a área operada.",
-    desc04: "Caso observe sinais como febre, inchaço anormal, vermelhidão, secreção na ferida ou dor intensa, entre em contato com seu médico."
+    desc01: "Nos primeiros dias, descanse o máximo possível. Evite esforços físicos, levantar objetos pesados ou praticar atividades intensas.",
+    desc02: "Um leve inchaço e desconforto nas orelhas são normais. O cirurgião pode prescrever analgésicos e anti-inflamatórios. Siga as orientações médicas e relate qualquer dor persistente ou incomum.",
+    desc03: "Após o primeiro dia, curtas caminhadas dentro de casa ajudam a melhorar a circulação sanguínea, evitando longos períodos de imobilidade."
 }
 
 export const card02 = {
     img: "/img/pacienteDeitado.jpg",
-    tittle: "Posições Corporais",
+    tittle: "Posições Corporais e Proteção da Área Operada",
 
-    h2Modal: "A posição corporal durante o repouso e as atividades do dia a dia faz uma grande diferença na proteção das próteses e na qualidade da cicatrização.",
+    li01: "Ao Dormir",
+    li02: "Evite Dormir de Lado",
+    li03: "Cuidado ao Vestir Roupas",
 
-    li01: "Dormir de Barriga para Cima",
-    li02: "Evitar Dormir de Lado ou de Bruços",
-    li03: "Evite Movimentos de Alongamento",
-
-    desc01: "A posição ideal é dormir de barriga para cima, com o tronco levemente elevado. Isso ajuda a evitar pressão nas mamas e diminui o risco de deslocamento da prótese.",
-    desc02: "Essas posições podem gerar pressão nas próteses e comprometer o resultado. Evite-as por pelo menos 2 meses, ou conforme a recomendação médica.",
-    desc03: "Evite levantar os braços acima dos ombros nas primeiras semanas, pois movimentos exagerados podem causar deslocamento da prótese e prejudicar a cicatrização."
+    desc01: "Prefira dormir de barriga para cima, com a cabeça levemente elevada por um travesseiro extra. Isso ajuda a reduzir o inchaço e evita pressão direta nas orelhas.",
+    desc02: "Dormir sobre as orelhas pode provocar dor e prejudicar a cicatrização. Aguarde a liberação do cirurgião para retomar essa posição.",
+    desc03: "Ao colocar camisetas ou blusas com gola apertada, faça-o com cuidado para não traumatizar as orelhas. Prefira roupas com aberturas frontais (botões ou zíper) nos primeiros dias."
 }
 
 export const card03 = {
     img: "/img/pacienteDeitado.jpg",
     tittle: "Cuidados com a Alimentação",
 
-    h2Modal: "A alimentação adequada contribui para uma recuperação mais rápida e eficaz, além de ajudar a reduzir o inchaço e melhorar a cicatrização.",
-
     li01: "O Que Comer",
     li02: "O Que Evitar",
 
-    desc01: "Proteínas Magras: Inclua alimentos como frango, peixe, ovos e leguminosas, essenciais para a regeneração dos tecidos.",
-    desc02: "Frutas e Vegetais: Ricos em antioxidantes e vitaminas, ajudam a combater a inflamação e a fortalecer o sistema imunológico.",
-    desc03: "Fibras: Consuma alimentos ricos em fibras, como frutas, legumes e grãos integrais, para evitar a constipação, comum no pós-operatório.",
+    desc01: "Proteínas Magras: Peixes, frango, ovos e leguminosas ajudam na regeneração dos tecidos.",
+    desc02: "Frutas e Vegetais: Ricos em vitaminas, minerais e antioxidantes, contribuem para a redução da inflamação e fortalecimento do sistema imunológico.",
+    desc03: "Fibras: Alimentos integrais, frutas e legumes evitam constipação, garantindo um melhor conforto durante a recuperação.",
 
-    desc04: "Alimentos Ricos em Sódio: Alimentos processados e muito salgados podem causar retenção de líquidos e aumentar o inchaço.",
-    desc05: "Açúcares e Gorduras Saturadas: Alimentos como frituras e doces inflamam o organismo e dificultam a cicatrização.",
-    desc06: "Álcool e Cafeína**: Esses itens podem interferir na absorção de nutrientes e afetar a recuperação."
+    desc04: "Alimentos Processados e Ricos em Sódio: Podem levar à retenção de líquidos, aumentando o inchaço.",
+    desc05: "Açúcares e Frituras: Inflamam o organismo, prejudicando a cicatrização.",
+    desc06: "Álcool e Cafeína: Interferem na hidratação e absorção de nutrientes, prejudicando a recuperação."
 
 }
 
@@ -54,82 +46,72 @@ export const card04 = {
     img: "/img/pacienteDeitado.jpg",
     tittle: " Higiene e Cuidados com a Ferida Operatória",
 
-    h2Modal: "Manter a região da cirurgia limpa e protegida é essencial para evitar infecções e garantir uma boa cicatrização.",
+    li01: "Limpeza Suave",
+    li02: "Banhos",
+    li03: "Secagem Cuidadosa",
 
-    li01: "Banhos",
-    li02: "Curativos",
-    li03: "Uso de Antissépticos",
-    li04: "Secagem Cuidadosa",
+    desc01: "Siga as instruções do cirurgião sobre a limpeza dos pontos e da pele ao redor das orelhas. Use solução antisséptica e gaze estéril, evitando esfregar com força.",
+    desc02: "Após 24 a 48 horas, banhos rápidos e mornos são geralmente permitidos. Evite água muito quente e não aplique pressão ou esfregue as áreas operadas.",
+    desc03: "Após o banho, seque a região com uma toalha limpa e macia, dando leves toques, sem friccionar."
 
-    desc01: "Nos primeiros dias, tome banhos rápidos e evite molhar a região das cicatrizes. Utilize uma esponja úmida para higienizar o restante do corpo até que seu médico autorize banhos completos.",
-    desc02: "Troque os curativos conforme a orientação do seu médico. Evite mexer nas suturas e manuseie a área com as mãos sempre limpas.",
-    desc03: "Após o banho, seque a área operada suavemente com uma toalha limpa, sem esfregar, para evitar qualquer atrito.",
-    desc04: "Limpe a região operada com soluções antissépticas recomendadas pelo seu médico para reduzir o risco de infecções."
 }
 
 export const card05 = {
     img: "/img/pacienteDeitado.jpg",
-    tittle: "Uso do Sutiã e das Meias de Compressão",
+    tittle: "Uso de Faixa de Compressão e Meias de Compressão",
 
-    h2Modal: "O uso adequado do sutiã pós-operatório e das meias de compressão é essencial para sua segurança e para a boa cicatrização.",
+    li01: "Faixa de Compressão Auricular",
+    li02: "Meias de Compressão ",
 
-    li01: "Sutiã Pós-Operatório",
-    li02: "Meias de Compressão",
-
-    desc01: "Duração: Use o sutiã específico indicado pelo seu médico por, em média, 60 a 90 dias. Ele deve proporcionar suporte e compressão moderada.",
-    desc02: "Ajuste: O sutiã deve cobrir bem as mamas, sem apertar excessivamente. Certifique-se de que ele esteja confortável e não cause pressão nas áreas suturadas.",
-    desc03: "Troca e Lavagem: Troque o sutiã com frequência para evitar umidade na área operada e mantenha-o sempre limpo para reduzir o risco de infecção.",
-    desc04: "Duração: Geralmente, as meias de compressão devem ser usadas durante os primeiros 14 a 21 dias para prevenir trombose e melhorar a circulação.",
-    desc05: "Remoção para Dormir: Conforme a orientação do seu médico, as meias podem ser removidas para dormir após a primeira semana, dependendo da evolução da recuperação."
-
+    desc01: "Faixa de Compressão Auricular: É comum o uso de uma faixa ou atadura elástica envolvendo as orelhas, ajudando a manter a nova posição e protegendo a área operada. ",
+    desc02: "Duração: Geralmente, a faixa deve ser usada 24 horas por dia durante as primeiras 2 a 3 semanas, removendo apenas para a higiene. Depois, pode ser usada apenas para dormir e durante a realização de atividades físicas, conforme orientação médica.",
+    desc03: "Meias de Compressão (Somente se Recomendada pelo Cirurgião): Podem ser recomendadas caso o paciente fique em repouso por mais tempo, ajudando na circulação das pernas. ",
+    desc04: "Duração: Normalmente 1 a 2 semanas, conforme a orientação do cirurgião.",
+   
     
 }
 
 export const card06 = {
     img: "/img/pacienteDeitado.jpg",
-    tittle: "Fisioterapia Pós-Operatória",
+    tittle: "Exercícios Físicos e Retorno às Atividades",
 
-    h2Modal: "A fisioterapia pode ser uma aliada no pós-operatório, promovendo uma recuperação mais rápida e ajudando na prevenção de fibroses e retrações.",
-
-    li01: "Drenagem Linfática Manual",
-    li02: "Carboxiterapia",
-    li03: "Laser Terapêutico",
+    li01: "Exercícios Leves",
+    li02: "Esportes de Contato e Impacto",
+    li03: "Trabalho e Rotina",
     
 
-    desc01: "Esse procedimento é indicado para ajudar a reduzir o inchaço e eliminar líquidos retidos, acelerando a recuperação e minimizando o risco de fibroses.",
-    desc02: "A aplicação de gás carbônico subcutâneo melhora a oxigenação dos tecidos e favorece uma cicatrização mais uniforme.",
-    desc03: "O uso de laser em pontos específicos reduz a inflamação e melhora a qualidade da cicatriz, prevenindo retrações e cicatrizes hipertróficas."
+    desc01: "Atividades físicas leves, como caminhadas, podem ser retomadas após alguns dias, de acordo com a liberação do cirurgião.",
+    desc02: "Evite práticas que possam traumatizar as orelhas por pelo menos 4 a 6 semanas. Sempre consulte seu médico antes de retomar qualquer atividade mais intensa.",
+    desc03: "Dependendo da profissão, é possível retornar ao trabalho após 7 a 10 dias, ou conforme recomendações médicas."
     
 }
 
 export const card07 = {
     img: "/img/pacienteDeitado.jpg",
-    tittle: "Evitando o Deslocamento da Prótese",
+    tittle: "Drenagem Linfática e Outras Terapias",
 
-    h2Modal: "O deslocamento da prótese é uma complicação que pode ser evitada com alguns cuidados no pós-operatório.",
+    li01: "Drenagem Linfática Manual",
+    li02: "Outras Terapias",
 
-    li01: "Evite Movimentos Bruscos",
-    li02: "Cuidado ao Levantar e Sentar-se",
-    li03: "Postura Correta",
-    li04: "Evite Exercícios de Alto Impacto",
+    desc01: "Em alguns casos, o cirurgião pode recomendar drenagem linfática para reduzir o inchaço, sempre realizada por um profissional capacitado.",
+    desc02: "Ultrassom ou laser terapêutico podem ser indicados, conforme avaliação médica, para melhorar a qualidade da cicatrização.",
 
-    desc01: "Atividades que exijam levantar peso, praticar esportes ou alongar demais os braços devem ser evitadas nas primeiras semanas.",
-    desc02: "Sempre use os braços para apoio ao levantar-se e sentar-se, evitando que o peso do corpo seja transferido para a região dos seios.",
-    desc03: "Manter uma postura correta no dia a dia ajuda a minimizar a pressão sobre a região operada e a proteger a posição das próteses.",
-    desc04: "Atividades físicas de alto impacto, como corrida ou levantamento de peso, devem ser evitadas nos primeiros 2 a 3 meses ou conforme liberação do médico."
 }
 
 export const card08 = {
     img: "/img/pacienteDeitado.jpg",
-    tittle: "Recomendações Finais para um Pós-operatório Tranquilo",
+    tittle: "Proteção Contra o Sol e Recomendações Finais",
+    h2modal: "Seguindo essas recomendações, o pós-operatório da otoplastia será mais tranquilo, confortável e seguro. Em caso de dúvidas ou sinais de alerta, não hesite em contactar seu cirurgião. O cuidado nessa fase é determinante para conquistar o resultado estético desejado e desfrutar de maior harmonia e satisfação com a aparência das suas orelhas.",
 
-    h2Modal: "O pós-operatório de uma mastopexia com prótese é um momento de cuidado e disciplina. Seguindo essas orientações, você estará no caminho para uma recuperação segura e um resultado satisfatório, que trará bem-estar e confiança.",
+    li01: "Evite Exposição Solar Direta",
+    li02: "Protetor Solar",
+    li03: "Não Fume",
+    li04: "Retornos Médicos",
+    li05: "Paciência e Disciplina",
 
-    li01: "Controle do Inchaço",
-    li02: "Evite o Tabagismo",
-    li03: "Compareça aos Retornos Médicos",
-
-    desc01: "Compressas frias (apenas se orientado pelo médico) podem ajudar a reduzir o inchaço na região.",
-    desc02: "Fumar prejudica a cicatrização e aumenta o risco de complicações.",
-    desc03: "Siga rigorosamente as consultas de acompanhamento para que sua recuperação seja monitorada de perto."
+    desc01: "A pele na região operada é mais sensível e pode ficar pigmentada se exposta ao sol cedo demais.",
+    desc02: "Assim que liberado pelo cirurgião, use protetor solar com FPS alto na área da cicatriz, caso fique exposta, e utilize chapéus ou bonés para proteger as orelhas.",
+    desc03: "O cigarro compromete a circulação e a cicatrização, aumentando o risco de complicações.",
+    desc04: "Compareça a todas as consultas de revisão, permitindo que o cirurgião acompanhe a evolução do pós-operatório.",
+    desc05: "Cada organismo tem seu próprio ritmo de recuperação. Seguir todas as orientações, ter paciência e disciplina é essencial para alcançar os melhores resultados."
 }

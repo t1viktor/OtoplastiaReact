@@ -1,17 +1,17 @@
-const descProcedimento = "A mastopexia com prótese é um procedimento cirúrgico que combina o levantamento dos seios com a colocação de próteses de silicone, visando melhorar o volume, o contorno e a firmeza das mamas, proporcionando resultados estéticos harmoniosos e maior confiança.";
+const descProcedimento = "A otoplastia é a cirurgia que visa corrigir a posição e a forma das orelhas, tornando-as mais proporcionais e harmônicas em relação ao rosto, proporcionando resultados estéticos naturais e maior confiança.";
 
 const tituloProcCard01 = "Avaliação Inicial";
 const tituloProcCard02 = "Preparação";
 const tituloProcCard03 = "Procedimento";
 const tituloProcCard04 = "Recuperação";
 
-const descProcCard01 = "Avaliação das mamas e definição do plano cirúrgico personalizado, considerando expectativas e saúde do paciente.";
+const descProcCard01 = "Avaliação das orelhas e definição do plano cirúrgico personalizado, considerando expectativas e saúde do paciente.";
 
 const descProcCard02 = "Exames pré-operatórios e orientações sobre dieta, medicamentos e preparação física e emocional para a cirurgia.";
 
-const descProcCard03 = "Cirurgia para levantar as mamas e posicionar próteses de silicone, com técnicas personalizadas para resultados naturais.";
+const descProcCard03 = "Cirurgia para reposicionar e remodelar as orelhas, com técnicas personalizadas para resultados naturais e harmoniosos.";
 
-const descProcCard04 = "Cuidados pós-operatórios com cicatrizes, uso de sutiã especial, alimentação e atividades para recuperação segura.";
+const descProcCard04 = "Cuidados pós-operatórios com repouso, higiene, uso de faixa compressiva, alimentação e atividades para uma recuperação segura e eficaz.";
 
 export default function Procedimento() {
     return (
